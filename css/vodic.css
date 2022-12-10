@@ -1,0 +1,16 @@
+#kartica1{
+    text-align: center;
+    margin: 2px 0px;
+}
+#kartica1 p{
+    margin: 5% 0%;
+    border: 2px solid black;
+    height: 25%;
+    padding: 2% 4%;
+}
+#slika{
+    width: 100%;
+}
+#slika2{
+    width: 50%;
+}

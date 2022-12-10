@@ -1,0 +1,35 @@
+#hero_deo{
+    background-image: url("../slike/slika1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 25%;
+    width: 100%;
+    padding-bottom: 10%;
+    overflow: hidden;
+}
+#naslov{
+    text-decoration: underline;
+    font-weight: bold;
+    margin: 2% 0%;
+}
+#opis{
+    background-color: #f9cb9c;
+    border: 2px solid black;
+    padding: 3% 1%;
+    font-size: 18px;
+    text-align: justify;
+    margin: 2% 0%;
+}
+.smedia_ikonice{
+    text-align: right;
+}
+#ikonice1{
+    width: 50px;
+    margin: 0% 1%;
+}
+#ikonice2{
+    margin: 0% 1%;
+    width: 40px;
+}
